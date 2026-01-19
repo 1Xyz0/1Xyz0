@@ -1,3 +1,3 @@
 # Languages I Use:
 
-**LUA** (fivem), **JS** (simple web & fivem ui & NODE.JS), **GO** (api & cmd & microservices), **SQL**, **C++** (soon) 
+**LUA** (fivem), **JS** (simple web & fivem ui & NODE.JS), **GO** (api & cmd & microservices), **SQL**, **JAVA** (soon) 
