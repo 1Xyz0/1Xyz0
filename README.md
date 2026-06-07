@@ -1,3 +1,7 @@
-# Languages I Use:
+# LANGUAGES
+**LUA**, **JS**, **GO**, **SQL**, **JAVA (soon)**
 
-**LUA** (fivem), **JS**, **GO** (api & cmd & microservices), **SQL**, **JAVA** (soon) 
+# DB & CACHE
+- **REDIS**
+- **POSTGRESQL**
+- **MYSQL**
