@@ -1,5 +1,5 @@
 # LANGUAGES
-**LUA**, **JS**, **GO**, **SQL**, **JAVA (soon)**
+**LUA**, **JS**, **GO**, **SQL**, **JAVA**
 
 # DB & CACHE
 - **REDIS**
